@@ -188,17 +188,27 @@ export const AvailableSizes = [
   },
 ];
 
+// export const firebaseConfig = {
+//   apiKey: "AIzaSyBJzh8FFTshPVDqoZiGoMr3pcWXabhjaRY",
+//   authDomain: "next-js-2024.firebaseapp.com",
+//   projectId: "next-js-2024",
+//   storageBucket: "next-js-2024.appspot.com",
+//   messagingSenderId: "828354043242",
+//   appId: "1:828354043242:web:53ea135abb67f484211913",
+//   measurementId: "G-YN2YSJ3LB9"
+// };
 export const firebaseConfig = {
-  apiKey: "AIzaSyBJzh8FFTshPVDqoZiGoMr3pcWXabhjaRY",
-  authDomain: "next-js-2024.firebaseapp.com",
-  projectId: "next-js-2024",
-  storageBucket: "next-js-2024.appspot.com",
-  messagingSenderId: "828354043242",
-  appId: "1:828354043242:web:53ea135abb67f484211913",
-  measurementId: "G-YN2YSJ3LB9"
+  apiKey: "AIzaSyBehvKPhzlC9iooc2KHraTGJllZbu_0TJM",
+  authDomain: "nextjs-1a371.firebaseapp.com",
+  projectId: "nextjs-1a371",
+  storageBucket: "nextjs-1a371.appspot.com",
+  messagingSenderId: "302393588800",
+  appId: "1:302393588800:web:48bceb2f6d91f4f9e0b3a5",
+  measurementId: "G-DQHEWDSGD7"
 };
 
-export const firebaseStorageURL = 'gs://next-js-2024.appspot.com';
+// export const firebaseStorageURL = 'gs://next-js-2024.appspot.com';
+export const firebaseStorageURL = 'gs://nextjs-1a371.appspot.com';
 
 export const addNewAddressFormControls = [
   {
